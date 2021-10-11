@@ -1,3 +1,3 @@
 # car-world
 Frictional car website
-main use of javascript to manipulate the html
+Made use of javascript to manipulate the html
