@@ -41,23 +41,23 @@ let cars = [
         price: "$39,000"
     },
     {
-        name: "Benz",
-        image: "images/Audi.jpg",
+        name: "Bmw",
+        image: "images/bmw.jpg",
+        price: "$29,000"
+    },
+    {
+        name: "Honda",
+        image: "images/nexter.jpg",
+        price: "$50,000"
+    },
+    {
+        name: "Ferarri",
+        image: "images/ferarri.jpg",
         price: "$39,000"
     },
     {
-        name: "Benz",
-        image: "images/Audi.jpg",
-        price: "$39,000"
-    },
-    {
-        name: "Benz",
-        image: "images/Audi.jpg",
-        price: "$39,000"
-    },
-    {
-        name: "Benz",
-        image: "images/Audi.jpg",
+        name: "Lamboghini",
+        image: "images/lambo.jpg",
         price: "$39,000"
     }
    
