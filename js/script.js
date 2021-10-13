@@ -65,19 +65,17 @@ let cars = [
 let carSection = document.getElementById('car-gallery');
 let html ;
  cars.forEach(e => {
-     console.log(e);
     html = `
     <div class="col-md-4 col-12">
     <div class="card m-4">
         <img src="./${e.image}" class="card-img-top"/>
-    <div class="card-body p-4 rounded-bottom">
+    <div class="card-body rounded-bottom">
         <h5 class="card-title">Name: ${e.name}</h5>
         <h6 class="card-text">Cost: ${e.price}</h6>
     </div> 
     </div>
     </div>
     `
-    console.log(html);
     carSection.innerHTML +=  html
 })
 
